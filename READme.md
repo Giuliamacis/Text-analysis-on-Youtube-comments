@@ -1,6 +1,6 @@
 ### Group project \- Behavior insights from text analysis 
 
-### **Team 10:** Eleonora di Mario, Giulia Macis, Chiara Chianese, YeonGyeong JO, Yiru Liu, Mengyuan LI, Ru JIA, Jingyue DIAO
+
 
 ### **Exploring Public Sentiment: A Deep Dive into YouTube Comments on Trump’s 2016 vs. 2025 InaugurationS**
 
