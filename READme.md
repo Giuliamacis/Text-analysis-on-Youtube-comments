@@ -343,17 +343,6 @@ Regarding the sentiment associated with these topics, the Friedman test revealed
 
 However, when examining the influence of political orientation, we found a significant difference between left-wing and right-wing channels. The political leaning of the YouTube channel strongly affects the sentiment in the comment sections. 
 
-**Individual Contributions**
-
-* Eleonora di Mario: Idea discussion , research questions, news channels selections, Data cleaning and preprocessing, Topic modeling analysis using Bertopic, Sentiment Analysis and Statistical tests.  
-* Giulia Macis: Idea discussion , research questions, news channels selections, Data cleaning and preprocessing, Topic modeling analysis using Bertopic, Sentiment Analysis and Statistical tests.  
-* Chiara Chianese: Idea discussion , research questions, news channels selections, Data cleaning and preprocessing, Report design and writing.  
-* YeonGyeong JO: Idea discussion , research questions, news channels selections, Code  to scrape comments, Data cleaning and preprocessing,  PPT.  
-* Yiru Liu: Idea discussion , research questions, news channels selections, selection of the 4 videos, Data cleaning and preprocessing, PPT.  
-* Mengyuan LI: Idea discussion , research questions, news channels selections, selection of the 4 videos, Data cleaning and preprocessing, PPT.  
-* Ru JIA: Idea discussion , research questions, news channels selections, selection of the 4 videos, Data cleaning and preprocessing, PPT.  
-* Jingyue DIAO: Idea discussion , research questions, news channels selections, selection of the 4 videos, Data cleaning and preprocessing, PPT.
-
 
 #### 
 
